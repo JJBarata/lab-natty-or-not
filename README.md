@@ -20,7 +20,7 @@ Neste vídeo de pouco mais de um minuto, o professor José Barata apresenta um r
 ## 🚀 Resultados
 Minha primeira experiência utilizando IAs Generativas para criar um vídeo foi simplesmente incrível! O processo de criação foi ao mesmo tempo fascinante e desafiador, me impulsionando a explorar novas formas de expressão e aprimorar minha criatividade. Além de expandir meus conhecimentos, percebi o enorme potencial dessas ferramentas tanto para minha vida pessoal quanto para minha atuação profissional, especialmente nas aulas que ministro na faculdade. Foi um passo empolgante rumo a um ensino mais dinâmico e inovador!
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://1drv.ms/f/c/ae7908aa8438bfd4/EiG3Piu22AhJtkPKMZ8-xN4BvZBarFHyCVOPYToOl3-0Mw?e=oO5Gqy)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência transformadora, unindo criatividade e tecnologia. As IAs Generativas ampliaram minhas possibilidades tanto na vida pessoal quanto no ensino, visando tornar minhas aulas mais dinâmicas e envolventes.
