@@ -14,7 +14,7 @@ Neste vídeo de pouco mais de um minuto, o professor José Barata apresenta um r
 - Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo;
 - Fiz a foto com o celular e editei no app "Photos" do Windows 11;
 - Usei o "Camtasia" para gravar e editar o audio;
-- Usei o plano gratuito do "D-ID" para criar um avatar virtual customizado com a voz gravada de professor;
+- Usei o plano gratuito do "D-ID" para criar um avatar virtual customizado com a voz real do autor;
 - Por fim, o aplicativo "CapCut" foi usado para a remoção das marcas d'água inseridas no vídeo.
 
 ## 🚀 Resultados
